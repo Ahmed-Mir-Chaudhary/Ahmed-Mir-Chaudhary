@@ -9,8 +9,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 [![Website](https://img.shields.io/badge/forrof.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://forrof.io)
 [![Email](https://img.shields.io/badge/ahmed@forrof.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@forrof.io)
 
-</div>
-
 ---
 
 ## Quick About Me
@@ -27,8 +25,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 <div align="center">
 
 `Finance & Banking` · `Healthcare` · `E-commerce & Retail` · `SaaS & Technology` · `Marketing & Advertising` · `Real Estate`
-
-</div>
 
 ---
 
@@ -54,17 +50,12 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mir-Chaudhary&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Mir-Chaudhary&color=blueviolet&style=for-the-badge)
+<div align="center">
 
 **Got messy data? Let's fix that.** 🚀
 
