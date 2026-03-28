@@ -1,30 +1,15 @@
 <div align="center">
 
-# Hey, I'm Ahmed Mir Chaudhary 🚀
+# Hey, I'm Ahmed Mir Chaudhary 
 
-### Data Engineer & BI Developer | Turning Raw Data into Business Decisions
+### Turning Raw Data into Business Decisions
 
-I build dashboards, pipelines, and reporting systems that actually make sense. If your data is messy — I'll fix it. If your reports are slow — I'll make them fly.
+I build dashboards, pipelines, and reporting systems that actually make sense. If your data is messy, I'll fix it. If your reports are slow — I'll make them fly.
 
 [![Website](https://img.shields.io/badge/forrof.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://forrof.io)
 [![Email](https://img.shields.io/badge/ahmed@forrof.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@forrof.io)
 
 </div>
-
----
-
-<div align="center">
-
-## ⚡ Quick About Me
-
-🔥 Obsessed with **clean data architecture** & beautiful dashboards
-📊 Currently deep into **Power BI, Looker Studio, SQL & AWS**
-🏗️ I build **scalable reporting systems** that teams can actually use
-🤝 Always down to tackle your next data challenge
-
-</div>
-
----
 
 <div align="center">
 
@@ -33,21 +18,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 `Finance & Banking` · `Healthcare` · `E-commerce & Retail` · `SaaS & Technology` · `Marketing & Advertising` · `Real Estate`
 
 </div>
-
----
-
-<div align="center">
-
-## 💡 Why Clients Choose Me
-
-⚡ I build dashboards that are **fast, scalable, and easy to maintain**
-🎯 I focus on **clean data architecture** so your reports are always accurate
-💬 I communicate clearly and **deliver on time, every time**
-📄 I provide **documentation** so your team can manage dashboards independently
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -63,12 +33,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Mir-Chaudhary&theme=tokyonight&no-frame=true&column=7)
 
