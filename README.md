@@ -13,12 +13,12 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 
 ---
 
-## ⚡ Quick About Me
+## Quick About Me
 
-- 🔥 Obsessed with **clean data architecture** & beautiful dashboards
-- 📊 Currently deep into **Power BI, Looker Studio, SQL & AWS**
-- 🏗️ I build **scalable reporting systems** that teams can actually use
-- 🤝 Always down to tackle your next data challenge
+- Obsessed with **clean data architecture** & beautiful dashboards
+- Currently deep into **Power BI, Looker Studio, SQL & AWS**
+- I build **scalable reporting systems** that teams can actually use
+- Always down to tackle your next data challenge
 
 ---
 
@@ -32,12 +32,12 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 
 ---
 
-## 💡 Why Clients Choose Me
+## Why Clients Choose Me
 
-- ⚡ I build dashboards that are **fast, scalable, and easy to maintain**
-- 🎯 I focus on **clean data architecture** so your reports are always accurate
-- 💬 I communicate clearly and **deliver on time, every time**
-- 📄 I provide **documentation** so your team can manage dashboards independently
+- I build dashboards that are **fast, scalable, and easy to maintain**
+- I focus on **clean data architecture** so your reports are always accurate
+- I communicate clearly and **deliver on time, every time**
+- I provide **documentation** so your team can manage dashboards independently
 
 ---
 
@@ -56,19 +56,7 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Mir-Chaudhary&theme=tokyonight&no-frame=true&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mir-Chaudhary&theme=tokyo-night&hide_border=true&area=true)
 
