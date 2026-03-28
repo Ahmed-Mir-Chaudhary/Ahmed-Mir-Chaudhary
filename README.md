@@ -50,8 +50,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Mir-Chaudhary&theme=tokyo-night&hide_border=true&area=true)
-
 ---
 
 <div align="center">
