@@ -13,15 +13,17 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 
 <div align="center">
 
-## 🏢 Industries I've Worked With
+## Industries I've Worked With
 
 `Finance & Banking` · `Healthcare` · `E-commerce & Retail` · `SaaS & Technology` · `Marketing & Advertising` · `Real Estate`
 
 </div>
 
-## 🛠️ Tech Stack
+
 
 <div align="center">
+
+## Tech Stack
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
