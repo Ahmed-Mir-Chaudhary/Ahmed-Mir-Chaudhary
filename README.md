@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hey, I'm Ahmed Mir Chaudhary
+# Hey, I'm Ahmed Mir Chaudhary 🚀
 
-Building Cool Stuff on the Internet
+### Data Engineer & BI Developer | Turning Raw Data into Business Decisions
 
-I turn ideas into pixel-perfect, animated, high-performance web experiences. If it moves, scrolls, or looks amazing — I probably built it.
+I build dashboards, pipelines, and reporting systems that actually make sense. If your data is messy — I'll fix it. If your reports are slow — I'll make them fly.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Mir-Chaudhary)
+[![Website](https://img.shields.io/badge/forrof.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://forrof.io)
+[![Email](https://img.shields.io/badge/ahmed@forrof.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@forrof.io)
 
 </div>
 
@@ -16,10 +15,29 @@ I turn ideas into pixel-perfect, animated, high-performance web experiences. If 
 
 ## ⚡ Quick About Me
 
-- 🔥 Obsessed with **creative frontends**, animations & interactive experiences
-- 🌐 Currently deep into **Next.js, Three.js & GSAP**
-- 🎨 I blend **design + code** to make the web more fun
-- 🤝 Always down to collab on something wild
+- 🔥 Obsessed with **clean data architecture** & beautiful dashboards
+- 📊 Currently deep into **Power BI, Looker Studio, SQL & AWS**
+- 🏗️ I build **scalable reporting systems** that teams can actually use
+- 🤝 Always down to tackle your next data challenge
+
+---
+
+## 🏢 Industries I've Worked With
+
+<div align="center">
+
+`Finance & Banking` · `Healthcare` · `E-commerce & Retail` · `SaaS & Technology` · `Marketing & Advertising` · `Real Estate`
+
+</div>
+
+---
+
+## 💡 Why Clients Choose Me
+
+- ⚡ I build dashboards that are **fast, scalable, and easy to maintain**
+- 🎯 I focus on **clean data architecture** so your reports are always accurate
+- 💬 I communicate clearly and **deliver on time, every time**
+- 📄 I provide **documentation** so your team can manage dashboards independently
 
 ---
 
@@ -27,16 +45,14 @@ I turn ideas into pixel-perfect, animated, high-performance web experiences. If 
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -62,6 +78,6 @@ I turn ideas into pixel-perfect, animated, high-performance web experiences. If 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Mir-Chaudhary&color=blueviolet&style=for-the-badge)
 
-**Let's build something insane together.** 🚀
+**Got messy data? Let's fix that.** 🚀
 
 </div>
