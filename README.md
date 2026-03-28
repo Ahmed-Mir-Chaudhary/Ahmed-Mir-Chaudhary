@@ -19,8 +19,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 
 </div>
 
-
-
 <div align="center">
 
 ## Tech Stack
@@ -34,14 +32,6 @@ I build dashboards, pipelines, and reporting systems that actually make sense. I
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 </div>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Mir-Chaudhary&theme=tokyonight&no-frame=true&column=7)
-
-</div>
-
----
-
-<div align="center">
 
 **Got messy data? Let's fix that.** 🚀
 
