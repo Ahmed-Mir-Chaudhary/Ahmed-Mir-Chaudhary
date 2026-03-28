@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Ahmed Mir Chaudhary 🚀
+# Hey, I'm Ahmed Mir Chaudhary
 
-### Full-Stack Developer | Creative Web Engineer | Building Cool Stuff on the Internet
+Building Cool Stuff on the Internet
 
 I turn ideas into pixel-perfect, animated, high-performance web experiences. If it moves, scrolls, or looks amazing — I probably built it.
 
